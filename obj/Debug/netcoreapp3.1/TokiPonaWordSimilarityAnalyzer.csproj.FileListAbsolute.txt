@@ -1,0 +1,13 @@
+C:\Users\lelan\OneDrive\Documents\GitHub\TokiPonaWordSimilarityAnalyzer\bin\Debug\netcoreapp3.1\TokiPonaWordSimilarityAnalyzer.exe
+C:\Users\lelan\OneDrive\Documents\GitHub\TokiPonaWordSimilarityAnalyzer\bin\Debug\netcoreapp3.1\TokiPonaWordSimilarityAnalyzer.deps.json
+C:\Users\lelan\OneDrive\Documents\GitHub\TokiPonaWordSimilarityAnalyzer\bin\Debug\netcoreapp3.1\TokiPonaWordSimilarityAnalyzer.runtimeconfig.json
+C:\Users\lelan\OneDrive\Documents\GitHub\TokiPonaWordSimilarityAnalyzer\bin\Debug\netcoreapp3.1\TokiPonaWordSimilarityAnalyzer.runtimeconfig.dev.json
+C:\Users\lelan\OneDrive\Documents\GitHub\TokiPonaWordSimilarityAnalyzer\bin\Debug\netcoreapp3.1\TokiPonaWordSimilarityAnalyzer.dll
+C:\Users\lelan\OneDrive\Documents\GitHub\TokiPonaWordSimilarityAnalyzer\bin\Debug\netcoreapp3.1\TokiPonaWordSimilarityAnalyzer.pdb
+C:\Users\lelan\OneDrive\Documents\GitHub\TokiPonaWordSimilarityAnalyzer\obj\Debug\netcoreapp3.1\TokiPonaWordSimilarityAnalyzer.csprojAssemblyReference.cache
+C:\Users\lelan\OneDrive\Documents\GitHub\TokiPonaWordSimilarityAnalyzer\obj\Debug\netcoreapp3.1\TokiPonaWordSimilarityAnalyzer.AssemblyInfoInputs.cache
+C:\Users\lelan\OneDrive\Documents\GitHub\TokiPonaWordSimilarityAnalyzer\obj\Debug\netcoreapp3.1\TokiPonaWordSimilarityAnalyzer.AssemblyInfo.cs
+C:\Users\lelan\OneDrive\Documents\GitHub\TokiPonaWordSimilarityAnalyzer\obj\Debug\netcoreapp3.1\TokiPonaWordSimilarityAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\lelan\OneDrive\Documents\GitHub\TokiPonaWordSimilarityAnalyzer\obj\Debug\netcoreapp3.1\TokiPonaWordSimilarityAnalyzer.dll
+C:\Users\lelan\OneDrive\Documents\GitHub\TokiPonaWordSimilarityAnalyzer\obj\Debug\netcoreapp3.1\TokiPonaWordSimilarityAnalyzer.pdb
+C:\Users\lelan\OneDrive\Documents\GitHub\TokiPonaWordSimilarityAnalyzer\obj\Debug\netcoreapp3.1\TokiPonaWordSimilarityAnalyzer.genruntimeconfig.cache
